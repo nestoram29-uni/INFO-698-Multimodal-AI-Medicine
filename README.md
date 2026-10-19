@@ -25,6 +25,15 @@ This project addresses this clinical gap by providing a cost-effective, high-acc
 
 ---
 
+## 🗂️ Data
+The BEHSOF dataset used can be found [here](https://figshare.com/articles/dataset/BEHSOF_Advanced_Non-alcoholic_fatty_liver_dataset_with_clinical_metadata_and_ultrasound_images_for_Deep_learning_Models/26389069/1).
+
+Version 1 is used since the other versions require passwords to unzip the data.
+
+The data was unzipped and placed placed in a top-level directory named `data`.
+
+---
+
 ## 📚 References
 [1] Younossi, Z. M., Kalligeros, M., Henry, L. (2025). Epidemiology of metabolic dysfunction-associated steatotic liver disease. Clinical and Molecular Hepatology, 31(Suppl), S32–S50.
 
